@@ -9,7 +9,7 @@
 
 // If you don't to add a custom vendor folder, then use the simple class
 // namespace HelloComposer;
-namespace azrim\HelloComposer;
+namespace mirza\HelloComposer;
 
 class Hello
 {
